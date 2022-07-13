@@ -1,0 +1,14 @@
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\bin\Debug\net6.0\BankDojo.Models.deps.json
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\bin\Debug\net6.0\BankDojo.Models.runtimeconfig.json
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\bin\Debug\net6.0\BankDojo.Models.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\bin\Debug\net6.0\BankDojo.Models.pdb
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.csproj.AssemblyReference.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.AssemblyInfoInputs.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.AssemblyInfo.cs
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.csproj.CoreCompileInputs.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\refint\BankDojo.Models.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.pdb
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\BankDojo.Models.genruntimeconfig.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Models\obj\Debug\net6.0\ref\BankDojo.Models.dll

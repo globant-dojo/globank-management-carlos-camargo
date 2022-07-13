@@ -1,0 +1,15 @@
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\bin\Release\net6.0\BankDojo.Repository.deps.json
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\bin\Release\net6.0\BankDojo.Repository.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\bin\Release\net6.0\BankDojo.Repository.pdb
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\bin\Release\net6.0\BankDojo.Models.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\bin\Release\net6.0\BankDojo.Models.pdb
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.csproj.AssemblyReference.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.AssemblyInfoInputs.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.AssemblyInfo.cs
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.csproj.CopyComplete
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\refint\BankDojo.Repository.dll
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\BankDojo.Repository.pdb
+C:\Users\c.camargo\Documents\Proyectos\Bank\BankDojo\BankDojo.Repository\obj\Release\net6.0\ref\BankDojo.Repository.dll
